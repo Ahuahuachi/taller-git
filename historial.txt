@@ -6,7 +6,7 @@ Header
 -------
 
 -------
-Body
+Main
 
     ----
     Aside 1
@@ -22,3 +22,23 @@ Body
 _______
 Footer
 _______
+
+
+
+
+
+1. git clone
+2. modificar el README.md
+3. Hacer commit
+4. hacer push
+
+
+
+
+Revisar configuracion git:
+git config --list
+
+
+Editar configuracion:
+git config --global user.name "Alfredo Altamirano"
+git config --global user.email "<correo de Github>"
